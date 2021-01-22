@@ -35,4 +35,3 @@ To view the project you can open `http://localhost:3000`.
 
 <p>&nbsp;&nbsp;</p>
 
----
